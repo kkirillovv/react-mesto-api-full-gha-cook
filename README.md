@@ -1,1 +1,1 @@
-# react-mesto-api-full-gha-cook
+# react-mesto-api-full-gha-cookie
