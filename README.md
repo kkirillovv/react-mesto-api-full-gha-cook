@@ -1,4 +1,4 @@
-[![Статус тестов](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
+[![Статус тестов](../../../react-mesto-api-full-gha/actions/workflows/tests.yml/badge.svg)](../../../react-mesto-api-full-gha/actions/workflows/tests.yml)
 ![2024-02-18_16-49-05](https://github.com/kkirillovv/react-mesto-api-full-gha-cookie/assets/122016948/33b74465-ad6d-4c41-b5de-d4695576eb31)
 
 # react-mesto-api-full
