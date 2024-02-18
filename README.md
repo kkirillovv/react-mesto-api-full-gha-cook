@@ -29,6 +29,7 @@ IP 79.174.91.193 - сайт размещен на Рег.Облаке:
   <li>сверстал компоненты на React и портировал разметку в его формат</li>
   <li>реализовал ассинхронные запросы к API</li>
   <li>проработал логику роутов для авторизованных и неавторизованных пользователей</li>
+  <li>установил nginx, настроил роутинг на стороне сервера, подключил ssl-сертификат</li>
 </ul>
 
 ## Планы по дороботке (выполнены 👍)
@@ -53,6 +54,7 @@ IP 79.174.91.193 - сайт размещен на Рег.Облаке:
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-grey?logo=Node.js&logoColor=black&labelColor=f0b354" height=30>
   <img alt="Express" src="https://img.shields.io/badge/Express-grey?logo=Express&logoColor=black&labelColor=f0b354" height=30>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-grey?logo=MongoDB&logoColor=black&labelColor=f0b354" height=30>
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-grey?logo=Nginx&logoColor=black&labelColor=f0b354" height=30>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?logo=GitHub&logoColor=black&labelColor=f0b354" height=30>
 </div>
 
