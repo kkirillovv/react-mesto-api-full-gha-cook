@@ -41,6 +41,20 @@ IP 79.174.91.193 - сайт размещен на Рег.Облаке:
   <li>работа с API, БЭМ</li>
 </ul>
 
+## Стек технологий
+<div align="center">
+  <img alt="Block, element, model" src="https://img.shields.io/badge/BEM-blue?logoColor=black&labelColor=f0b354" height=30>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-blue?logo=HTML5&logoColor=black&labelColor=f0b354" height=30>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=black&labelColor=f0b354" height=30>
+  <img alt="Adaptive layout" src="https://img.shields.io/badge/Adaptive%20layout-blue?logoColor=black&labelColor=f0b354" height=30>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=black&labelColor=f0b354" height=30>
+  <img alt="React" src="https://img.shields.io/badge/React-blue?logo=React&logoColor=black&labelColor=f0b354" height=30>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-grey?logo=Node.js&logoColor=black&labelColor=f0b354">
+  <img alt="Express" src="https://img.shields.io/badge/Express-blue?logo=Express&logoColor=black&labelColor=f0b354" height=30>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&logoColor=black&labelColor=f0b354" height=30>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-blue?logo=GitHub&logoColor=black&labelColor=f0b354" height=30>
+</div>
+
 ## Инструкция по запуску
 Для запуска проекта необходимо сделать следующие шаги:
 
