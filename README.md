@@ -45,9 +45,9 @@ IP 79.174.91.193 - сайт размещен на Рег.Облаке:
 Для запуска проекта необходимо сделать следующие шаги:
 <ol>
   <li>Создать папку, зайти туда и склонировать репозиторий:</li>
-   `git clone https://github.com/kkirillovv/react-mesto-api-full-gha`
+  `git clone https://github.com/kkirillovv/react-mesto-api-full-gha`
   <li>Установить все зависимости через</li>
-  * `yarn или npm install`
+  `yarn или npm install`
   <li>Запустить сперва back-end, а затем front-end через</li>
-  * `yarn или npm start`
+  `yarn или npm start`
 </ol>
